@@ -1,0 +1,20 @@
+{
+    "3choices" : [
+        {
+            "id":1,
+            "choice" : "ROCK",
+            "url" : "image.url"
+        },
+        {
+            "id":2,
+            "choice" : "PAPER",
+            "url" : "image.url"
+        },
+        {
+            "id":3,
+            "choice" : "SCISSORS",
+            "url" : "image.url"
+        }
+      
+    ]
+}
